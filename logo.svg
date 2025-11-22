@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="27" viewBox="0 0 132 27" fill="none" role="img" aria-label="AuraWears logo">
+  <title>AuraWears</title>
+  <g fill="none" stroke="#0B0B0B" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 22 L12 4 L18 22" />
+    <path d="M9 15 L15 15" />
+    <g transform="translate(28,20)" stroke-width="0.9" stroke="#0B0B0B" fill="none">
+      <text x="0" y="0" font-family="Inter, sans-serif" font-size="12" fill="#0B0B0B" stroke="none">AuraWears</text>
+    </g>
+  </g>
+</svg>
