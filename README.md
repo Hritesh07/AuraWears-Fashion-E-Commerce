@@ -49,6 +49,7 @@ The goal is to create a **premium online shopping vibe** that feels modern, mini
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 | Technology | Use |
@@ -56,9 +57,8 @@ The goal is to create a **premium online shopping vibe** that feels modern, mini
 | **HTML5** | Structure of the site |
 | **CSS3** | Styling, layout, animations |
 | **JavaScript** | Interactivity and dynamic behavior |
-| **GitHub Pages** | (Optional) Free hosting |
+
 
 ---
 
-## 📂 Folder Structure
 
